@@ -1,0 +1,8 @@
+C:\Users\90536\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\90536\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\90536\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\90536\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\90536\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\90536\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.pdb

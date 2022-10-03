@@ -12,12 +12,8 @@ namespace BankAccount
         public string Name { get; set; }
         public string Surname { get; set; }
         public int Password { get; set; }
+        public string UserName { get; set; }
 
-        public void CapitalLetter(string Name, string Surname)
-        {
-            Name = Name.ToUpper();
-            Surname = Surname.ToUpper();
-        }
+
     }
 }
-        
